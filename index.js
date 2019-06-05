@@ -35,9 +35,9 @@ function iLoveTheBeatles (num) {
   var loveNotes = [];
   var i = 0;
   do {
-    loveNotes[i] = "I love the Beatles!"
+    loveNotes[i] = "I love the Beatles!";
     num = num + 1;
   }
-  while 
-  
+  while (num < 15);
+  return loveNotes;
 }
