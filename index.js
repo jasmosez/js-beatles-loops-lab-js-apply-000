@@ -37,6 +37,7 @@ function iLoveTheBeatles (num) {
   do {
     loveNotes[i] = "I love the Beatles!";
     num++;
+    i++;
   }
   while (num < 15);
   return loveNotes;
