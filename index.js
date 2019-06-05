@@ -37,7 +37,7 @@ function iLoveTheBeatles (num) {
   do {
     loveNotes[i] = "I love the Beatles!"
     num = num + 1;
-    
   }
+  while 
   
 }
