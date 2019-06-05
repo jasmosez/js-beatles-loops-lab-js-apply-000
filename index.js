@@ -33,6 +33,10 @@ function johnLennonFacts (facts) {
 
 function iLoveTheBeatles (num) {
   var loveNotes = [];
-  do 
+  var i = 0;
+  do {
+    num = num + 1;
+    
+  }
   
 }
